@@ -1,0 +1,4 @@
+image_directory: "images"
+red_matrix_directory: "RGBmatrices/red"
+green_matrix_directory: "RGBmatrices/green"
+blue_matrix_directory: "RGBmatrices/blue"

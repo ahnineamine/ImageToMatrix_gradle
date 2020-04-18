@@ -1,0 +1,3 @@
+rootProject.name = 'ImageToMatrix_gradle'
+include 'java'
+
